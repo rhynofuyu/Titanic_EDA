@@ -1,6 +1,6 @@
 # Titanic - Machine Learning from Disaster
 
-#### Summer 2025 EDA Project @hoangvd12
+#### Summer 2025 EDA Project @rhynofuyu
 
 ---
 
