@@ -65,4 +65,4 @@ Dự án này thực hiện phân tích dữ liệu thám hiểm (EDA) trên b�
 
 - **Yếu tố quan trọng nhất:** Giới tính, tuổi, hạng vé.
 - **Nguyên tắc "phụ nữ và trẻ em trước" được áp dụng rõ rệt.**
-- **Địa vị xã hội và kinh tế ảnh hưởng lớn đến khả
+- **Địa vị xã hội và kinh tế ảnh hưởng lớn đến khả năng sống sót.**
