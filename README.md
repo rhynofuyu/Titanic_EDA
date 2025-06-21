@@ -6,7 +6,7 @@
 
 ## 1. Giới thiệu
 
-Dự án này thực hiện phân tích dữ liệu thám hiểm (EDA) trên bộ dữ liệu Titanic nổi tiếng, nhằm tìm hiểu các yếu tố ảnh hưởng đến khả năng sống sót của hành khách.
+Dự án này thực hiện Khai phá dữ liệu (EDA) trên bộ dữ liệu Titanic, nhằm tìm hiểu các yếu tố ảnh hưởng đến khả năng sống sót của hành khách.
 
 ---
 
